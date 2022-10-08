@@ -1,5 +1,5 @@
 {
-    "name": "Zaazsoft/module-qrcode",
+    "name": "zaazsoft/module-qrcode",
     "description": "QR code of order id in order view page frontend",
     "type": "magento2-module",
     "license": "proprietary",
