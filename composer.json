@@ -4,7 +4,7 @@
     "type": "magento2-module",
     "license": "proprietary",
     "require": {
-            "magento/magento-composer-installer": "*"
+            "php": "7.4"
     },
     "version": "1.0.0",
     "authors": [
