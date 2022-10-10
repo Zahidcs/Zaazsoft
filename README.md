@@ -20,9 +20,5 @@
  - enable the module by running `php bin/magento module:enable Zaazsoft`
  - apply database updates by running `php bin/magento setup:upgrade`
  - Flush the cache by running `php bin/magento cache:flush`
-<<<<<<< HEAD
- 
-=======
->>>>>>> 751db3429a77cf6aef4476aa10aadb48163e7025
 
 
